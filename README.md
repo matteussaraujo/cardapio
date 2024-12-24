@@ -1,12 +1,19 @@
-Criando cardápio online
+# Cardápio Online
 
-Funcionalidades:
+## Funcionalidades:
 
-Listar os produtos
-Adicionar produtos ao carrinho
-Verificar os itens no carrinho pela home
-Acessar detalhes do carrinho
-Remover itens do carrinho
-Adicionar e verificar endereço
-Validar se o restaurante está aberto
-Enviar pedido para o whatsapp
+1. **Listar os produtos**
+
+2. **Adicionar produtos ao carrinho**
+
+3. **Verificar os itens no carrinho pela home**
+
+4. **Acessar detalhes do carrinho**
+
+5. **Remover itens do carrinho**
+
+6. **Adicionar e verificar endereço**
+
+7. **Validar se o restaurante está aberto**
+
+8. **Enviar pedido para o WhatsApp**
